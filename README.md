@@ -2,9 +2,9 @@
 
 Prerequisites:
 
-- Install [Neovim 0.9+](https://neovim.io/)
+- Install [Neovim 0.9+](https://neovim.io/).
 - Install [ripgrep](https://github.com/BurntSushi/ripgrep).
-- [Git for Windows](https://git-scm.com/)
+- [Git for Windows](https://git-scm.com/).
 
 ## Supported Languages 
 
