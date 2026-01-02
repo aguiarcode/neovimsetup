@@ -17,7 +17,6 @@ This configuration includes ready-to-use LSP and formatter setups for:
 | **Go** | gopls | gofmt |
 | **Rust** | rust-analyzer | rustfmt |
 | **TypeScript / JavaScript** | vtsls (or tsserver) | prettier / conform |
-| **Java** | jdtls | (built-in formatting) |
 
 All of these can be installed easily via **Mason**, directly inside Neovim.
 
