@@ -1,5 +1,7 @@
 ## João's Neovim Setup 
 
+Built for Windows users who want a keyboard-driven, minimalist IDE.
+
 Prerequisites:
 
 - Install [Neovim 0.9+](https://neovim.io/).
