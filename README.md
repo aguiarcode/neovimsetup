@@ -26,4 +26,4 @@ Clone this repository into your Neovim configuration path.
 
 ### Windows (PowerShell)
 ```powershell
-git clone https://github.com/aguiar333/neovimsetup "$env:LOCALAPPDATA\nvim"
+git clone https://github.com/aguiarcode/neovimsetup "$env:LOCALAPPDATA\nvim"
