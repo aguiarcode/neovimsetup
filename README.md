@@ -27,3 +27,17 @@ Clone this repository into your Neovim configuration path.
 ### Windows (PowerShell)
 ```powershell
 git clone https://github.com/aguiarcode/neovimsetup "$env:LOCALAPPDATA\nvim"
+````
+
+## Recommended Terminal: WezTerm
+
+This setup works with any terminal, but it is **designed and tested primarily with WezTerm on Windows**.
+
+WezTerm offers:
+- Native Windows support
+- GPU-accelerated rendering
+- Lua-based configuration
+
+This repository includes a WezTerm configuration used alongside Neovim.
+
+Together, **Neovim + WezTerm** form a lightweight, minimalist, and fully keyboard-driven development environment.
