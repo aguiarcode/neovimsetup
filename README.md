@@ -31,7 +31,7 @@ git clone https://github.com/aguiarcode/neovimsetup "$env:LOCALAPPDATA\nvim"
 
 ## Recommended Terminal: WezTerm
 
-This setup works with any terminal, but it is **designed and tested primarily with WezTerm on Windows**.
+This setup works with any terminal, but it is designed and tested primarily with WezTerm on Windows.
 
 WezTerm offers:
 - Native Windows support
