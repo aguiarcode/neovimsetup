@@ -40,4 +40,4 @@ WezTerm offers:
 
 This repository includes a WezTerm configuration used alongside Neovim.
 
-Together, **Neovim + WezTerm** form a lightweight, minimalist, and fully keyboard-driven development environment.
+Together, **Neovim + WezTerm** form a lightweight, minimalist, and fully **keyboard-driven** development environment.
