@@ -1,4 +1,4 @@
-## João's Neovim Setup 
+## Neovim Setup 
 
 Built for Windows users who want a keyboard-driven, minimalist IDE.
 
