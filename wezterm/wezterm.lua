@@ -7,7 +7,7 @@ return {
     window_background_image = home .. "/Pictures/wallpaper.jpg",
 
     window_background_image_hsb = {
-        brightness = 0.04,
+        brightness = 0.01,
         saturation = 1.0,
         hue = 1.0,
     },
