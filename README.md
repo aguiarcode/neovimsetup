@@ -4,9 +4,9 @@ Built for Windows users who want a keyboard-driven, minimalist IDE.
 
 Prerequisites:
 
-- Install [Neovim 0.9+](https://neovim.io/).
-- Install [ripgrep](https://github.com/BurntSushi/ripgrep).
-- [Git for Windows](https://git-scm.com/).
+- Install [Neovim 0.9+](https://neovim.io/)
+- Install [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [Git for Windows](https://git-scm.com/)
 
 ## Supported Languages 
 
