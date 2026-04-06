@@ -51,3 +51,13 @@ vim.opt.splitright = true
 -- Visual cleanup
 vim.opt.signcolumn = "yes"
 vim.opt.fillchars = { eob = " " }
+
+vim.api.nvim_create_autocmd("VimLeave", {
+    callback = function()
+        if vim.fn.has("win32") == 1 then
+            vim.cmd("!cls")
+        else
+            vim.cmd("!clear")
+        end
+    end,
+})
